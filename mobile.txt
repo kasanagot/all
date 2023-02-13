@@ -1,8 +1,0 @@
-name : oneplus 6t
-version : 12.1
-ram : 128 gb
-
-
-version : 13.1
-  version : 100.02
-version : 200.1
