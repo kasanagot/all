@@ -1,0 +1,3 @@
+name : oneplus 6t
+version : 12.1
+ram : 128 gb
